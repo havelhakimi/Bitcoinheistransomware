@@ -1,7 +1,7 @@
 # Decision Trees, Ensembling, Adaboost and Random Forest on  Bitcoin Heist Ransomware Address Dataset
 This a solution notebook to an assignment question given in a Data Mining graduate course. Each code block is accompanied by  relevant analysis wherever required. </br>
 **Dataset link** : https://archive.ics.uci.edu/ml/datasets/BitcoinHeistRansomwareAddressDataset </br>
-Broadly, the following steps have been performed in the solution notebook:
+Broadly, the following steps have been performed in this solution notebook:
 <ul>
 <li> A custom designed train-test split method which splits the data into training, validation and test set (70:15:15). </li>
 <li> Decision Tree trained using both the Gini index and the Entropy by changing the max-depth as [4,8,10,15,20]. </li>
