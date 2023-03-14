@@ -1,4 +1,4 @@
-# Decision Trees, Ensembling, Adaboost and Random Forest on  Bitcoin Heist Ransomware Address Dataset
+# Machine Learning Models for Bitcoin Heist Ransomware Address Dataset
 This a solution notebook to an assignment question given in a Data Mining graduate course. Each code block is accompanied by  relevant analysis wherever required. </br>
 **Dataset link** : https://archive.ics.uci.edu/ml/datasets/BitcoinHeistRansomwareAddressDataset </br>
 Broadly, the following steps have been performed in this solution notebook:
