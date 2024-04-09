@@ -5,7 +5,7 @@ Broadly, the following steps have been performed in this solution notebook:
 <ul>
 <li> A custom designed train-test split method which splits the data into training, validation and test set (70:15:15). </li>
 <li> Decision Tree trained using both the Gini index and the Entropy by changing the max-depth as [4,8,10,15,20]. </li>
-  <ul> <li>The criteria (gini/entropy) selected is the one which gives better accuracy on test set with the chosen depth. </li></ul>
+  <ul> <li>The splitting criteria (gini/entropy) selected is the one which gives better accuracy on test set with the chosen depth. </li></ul>
   
 <li> Ensembling method is a method to combine multiple not-so-good models to get a better performing model.</li> 
   <ul>
